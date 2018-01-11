@@ -1,0 +1,437 @@
+body {
+	padding:0px;
+	margin:0px;
+	background-color: #CCFFCC;
+
+}
+header {
+	background-color:#415e9b;
+	height:82px;
+}
+.header-block {
+	width:992px;
+	margin: 0 auto;
+	padding-top: 20px;
+
+}
+a{
+	color: blue;
+}
+.logo {
+	width:60%;
+	float:left;
+	padding-top: 7px;
+}
+.facebook-login{
+	width: 40%;
+	float: left;
+}
+.header-block label {
+	color: #fff;
+
+}
+.email{
+	float:left;
+}
+.email label{
+	padding-bottom: 10px;
+}
+.email input[type="text"]{
+	height: 20px;
+	width: 150px;
+	border: 1px solid #1d2a5b;
+
+}
+.password {
+float: left;
+margin-left: 15px;
+}
+.password  input[type="password"] {
+	height: 20px;
+	width: 150px;
+	border: 1px solid #1d2a5b;
+
+}
+.password a{
+	color:#8fb1d8;
+	text-decoration: none;
+}
+.password label{
+	padding-bottom: 10px;
+}
+.login-button{
+float: left;
+margin-top:18px;
+margin-left:20px;
+
+}
+.login-button input[type="submit"]{
+	background-color: #4267b2;
+	border: 1px solid #29487d;
+	background-radius:2 px;
+	color: white;
+	height:20px;
+	width:50px;
+}
+.clearfix{
+	clear:both;
+}
+.content-block{
+	width:992px;
+	margin: 0 auto;
+}
+.facebook-connect{
+	margin-top: 50px;
+	width:50%;
+	float: left;
+}
+.facebook-connect p {
+	color: #0e385f;
+	font-size:25px;
+	font-weight: bold;
+	margin-top:1px;
+}
+.create-account{
+	width: 50%;
+	float: left;
+	height:150px;
+}
+.create-account p{
+	font-size:20px;
+	margin-left: 90px;
+	padding-top:1px;
+	font-weight: bold;
+	margin-top:1px;
+
+}
+.create-account h2{
+	font-size:40px;
+	font-weight: bold;
+	margin-left: 90px;
+	margin-top: 15px;
+	padding: 2px;
+
+}
+.account{
+	width: 40%;
+	float:left;
+	height:450px;
+	//background-color: red;
+	width:500px;
+}
+
+.fn input[type="text"]{
+	float:left;
+	font-size: 20px;
+	height:34px;
+	width: 150px;
+	margin-top:2px;
+	margin-left: 90px;
+	border-radius: 8px;
+	padding:7px;
+}
+.ln input[type="text"]{
+	float:left;
+	font-size: 20px;
+	height:34px;
+	width: 150px;
+	margin-top:2px;
+	margin-left:18px;
+	border-radius: 8px;
+	padding:7px;
+}
+.mn input[type="text"]{
+	float:left;
+	font-size: 20px;
+	height:34px;
+	width: 320px;
+	border-radius: 8px;
+	padding:7px;
+	margin-top:9px;
+	margin-left: 90px;
+}
+.pa input[type="password"]{
+	float:left;
+	font-size: 20px;
+	height:34px;
+	width: 320px;
+	border-radius: 8px;
+	padding:7px;
+	margin-top:9px;
+	margin-left: 90px;
+}
+.account p{
+	font-weight: bold;
+	color: black;
+	float: left;
+	margin-top:12px;
+	margin-end: 2px;
+	width: 320px;
+}
+.birthday {
+	float: left;
+	width:100%;
+	height:50px;
+
+}
+.drop select {
+	float:left;
+	width:70px;
+	height: 30px;
+	margin-top: 0px;
+	margin-left:90px;
+}
+.down select {
+	float:left;
+	width:70px;
+	height: 30px;
+	margin-top: 0px;
+	margin-left:5px;
+	
+}
+
+.list select{
+	float:left;
+	width:70px;
+	height: 30px;
+	margin-top: 0px;
+	margin-left:5px;
+
+}
+.binf {
+	float:right;
+	width:35%;
+	height:50px;
+	margin-left:10px;
+}
+.binf a{
+	text-decoration: none;
+	font-size: 14px;
+	color: blue;
+}
+.gender{
+	float: left;
+	width:100%;
+	height:30px;
+}
+.gender input[type="radio"]{
+	font-size: 12px;
+	margin-left:95px;
+}
+.choose{
+	float:right;
+	width:65%;
+	height:30px;
+	//background-color: white;
+}
+.choose input[type="radio"]{
+	font-size: 12px;
+	margin-left:1px;
+}
+.information{
+	float: left;
+	width:100%;
+	height:60px;
+	
+}
+.information p{
+	font-size: 11px;
+	font-weight: none;
+	margin-top: 3px;
+	color:#909090;
+}
+.information a
+{
+	text-decoration: none;
+}
+.final{
+	float:left;
+	width:100%;
+	height:80px;
+	//background-color:orange;
+	cursor: pointer;
+}
+.final input[type="submit"]{
+	width:200px;
+	height: 50px;
+	font-size: 20px;
+	background-color:#67ae55;
+	color: white;
+	border-radius: 5px;
+	margin-top: 10px;
+	border: 2px solid transparent;
+	margin-left: 90px;
+}
+.make-page{
+	float:left;
+	width:100%;
+	height:80px;
+	//background-color: black;
+}
+.make-page a{
+	font-size: 16px;
+	text-decoration: none;
+	color:blue;
+	margin-top:16px;
+}
+.make-page p {
+	font-size: 14px;
+	margin-top:16px;
+}
+footer{
+	height:200px;
+	background-color:white;
+	margin-top:600px;
+}
+.footer-block-first{
+	font-size:14px;
+	margin-left:200px;
+	margin-top:30px;
+	color: grey;
+	float:left;
+	width:6%;
+	height: 30px;
+}
+.footer-block-second{
+	margin-left:0px;
+	margin-top:28px;
+	color: grey;
+	float:left;
+	width:70%;
+	height: 30px;
+
+}
+.footer-block-second a{
+	text-decoration: none;
+	color:blue;
+	margin-left:4px;
+	margin-top: 10px;
+	font-size:14px;
+
+}
+hr{
+	 
+    margin-top:11px;
+    margin-left:0px;
+}
+.footer-block-third{
+	float: left;
+	width:100%;
+	height:70px;
+	//background-color: black;
+	margin-top: 15px;
+	margin-left:5px;
+}
+.footer-block-fourth{
+	float:left;
+	height: 70px;
+	width:8%;
+	margin-left:170px;
+
+}
+.footer-block-fourth a{
+	text-decoration: none;
+	margin-left: 20px;
+}
+.footer-block-fifth{
+	float:left;
+	height: 70px;
+	width:7%;
+	margin-left:0px;
+	}
+.footer-block-fifth a{
+	text-decoration: none;
+	margin-left:3px;
+}
+.footer-block-sixth{
+	float:left;
+	height: 70px;
+	width:6%;
+	margin-left:2px;
+	//background-color: orange;
+}
+.footer-block-sixth a{
+	text-decoration: none;
+}
+.footer-block-seventh{
+	float:left;
+	height: 70px;
+	width:8%;
+	margin-left:2px;
+	//background-color: orange;
+}
+.footer-block-seventh a{
+	text-decoration: none;
+}
+.footer-block-eighth{
+	float:left;
+	height: 70px;
+	width:6%;
+	margin-left:2px;
+	//background-color: orange;
+}
+.footer-block-eighth a{
+	text-decoration: none;
+}
+.footer-block-ninth{
+	float:left;
+	height: 70px;
+	width:7%;
+	margin-left:2px;
+	//background-color: orange;
+}
+.footer-block-ninth a{
+	text-decoration: none;
+}
+.footer-block-tenth{
+	float:left;
+	height: 70px;
+	width:5%;
+	margin-left:2px;
+}
+.footer-block-tenth a{
+	text-decoration: none;
+}
+.footer-block-eleventh{
+	float:left;
+	height: 70px;
+	width:5%;
+	margin-left:2px;
+}
+.footer-block-eleventh a{
+	text-decoration: none;
+}
+.footer-block-twelth{
+	float:left;
+	height: 70px;
+	width:4%;
+	margin-left:2px;
+}
+.footer-block-twelth a{
+	text-decoration: none;
+}
+.footer-block-thirteen{
+	float:left;
+	height: 70px;
+	width:6%;
+	margin-left:2px;
+}
+.footer-block-thirteen a{
+	text-decoration: none;
+}
+.footer-block-fourteen{
+	float:left;
+	height: 70px;
+	width:6%;
+	margin-left:2px;
+}
+.footer-block-fourteen a{
+	text-decoration: none;
+}
+.ending{
+	font-color:grey;
+	float: left;
+	width:10%;
+	margin-left: 195px;
+	margin-top: 5px;
+}
