@@ -251,7 +251,7 @@ margin-left:20px;
 	//background-color:orange;
 	cursor: pointer;
 }
-.final input[type="submit"]{
+.final input[type="submit"] {
 	width:200px;
 	height: 50px;
 	font-size: 20px;
@@ -262,13 +262,13 @@ margin-left:20px;
 	border: 2px solid transparent;
 	margin-left: 90px;
 }
-.make-page{
+.make-page {
 	float:left;
 	width:100%;
 	height:80px;
 	//background-color: black;
 }
-.make-page a{
+.make-page a {
 	font-size: 16px;
 	text-decoration: none;
 	color:blue;
@@ -278,12 +278,12 @@ margin-left:20px;
 	font-size: 14px;
 	margin-top:16px;
 }
-footer{
+footer {
 	height:200px;
 	background-color:white;
 	margin-top:600px;
 }
-.footer-block-first{
+.footer-block-first {
 	font-size:14px;
 	margin-left:200px;
 	margin-top:30px;
@@ -292,7 +292,7 @@ footer{
 	width:6%;
 	height: 30px;
 }
-.footer-block-second{
+.footer-block-second {
 	margin-left:0px;
 	margin-top:28px;
 	color: grey;
@@ -301,7 +301,7 @@ footer{
 	height: 30px;
 
 }
-.footer-block-second a{
+.footer-block-second a {
 	text-decoration: none;
 	color:blue;
 	margin-left:4px;
@@ -309,58 +309,58 @@ footer{
 	font-size:14px;
 
 }
-hr{
+hr {
 	 
     margin-top:11px;
     margin-left:0px;
 }
-.footer-block-third{
+.footer-block-third {
 	float: left;
 	width:100%;
 	height:70px;
 	//background-color: black;
 	margin-top: 15px;
 	margin-left:5px;
-}
-.footer-block-fourth{
-	float:left;
+} 
+.footer-block-fourth {
+	float:left; 
 	height: 70px;
 	width:8%;
 	margin-left:170px;
 
 }
-.footer-block-fourth a{
+.footer-block-fourth a  {
 	text-decoration: none;
 	margin-left: 20px;
 }
-.footer-block-fifth{
+.footer-block-fifth {
 	float:left;
 	height: 70px;
 	width:7%;
 	margin-left:0px;
 	}
-.footer-block-fifth a{
+.footer-block-fifth a {
 	text-decoration: none;
 	margin-left:3px;
 }
-.footer-block-sixth{
+.footer-block-sixth {
 	float:left;
 	height: 70px;
 	width:6%;
 	margin-left:2px;
 	//background-color: orange;
 }
-.footer-block-sixth a{
+.footer-block-sixth a {
 	text-decoration: none;
 }
-.footer-block-seventh{
+.footer-block-seventh {
 	float:left;
 	height: 70px;
 	width:8%;
 	margin-left:2px;
 	//background-color: orange;
 }
-.footer-block-seventh a{
+.footer-block-seventh a {
 	text-decoration: none;
 }
 .footer-block-eighth{
@@ -370,65 +370,65 @@ hr{
 	margin-left:2px;
 	//background-color: orange;
 }
-.footer-block-eighth a{
+.footer-block-eighth a {
 	text-decoration: none;
 }
-.footer-block-ninth{
+.footer-block-ninth {
 	float:left;
 	height: 70px;
 	width:7%;
 	margin-left:2px;
 	//background-color: orange;
 }
-.footer-block-ninth a{
+.footer-block-ninth a {
 	text-decoration: none;
 }
-.footer-block-tenth{
+.footer-block-tenth {
 	float:left;
 	height: 70px;
 	width:5%;
 	margin-left:2px;
 }
-.footer-block-tenth a{
+.footer-block-tenth a {
 	text-decoration: none;
 }
-.footer-block-eleventh{
+.footer-block-eleventh {
 	float:left;
 	height: 70px;
 	width:5%;
 	margin-left:2px;
 }
-.footer-block-eleventh a{
+.footer-block-eleventh a {
 	text-decoration: none;
 }
-.footer-block-twelth{
+.footer-block-twelth {
 	float:left;
 	height: 70px;
 	width:4%;
 	margin-left:2px;
 }
-.footer-block-twelth a{
+.footer-block-twelth a {
 	text-decoration: none;
 }
-.footer-block-thirteen{
+.footer-block-thirteen {
 	float:left;
 	height: 70px;
 	width:6%;
 	margin-left:2px;
 }
-.footer-block-thirteen a{
+.footer-block-thirteen a {
 	text-decoration: none;
 }
-.footer-block-fourteen{
+.footer-block-fourteen {
 	float:left;
 	height: 70px;
 	width:6%;
 	margin-left:2px;
 }
-.footer-block-fourteen a{
+.footer-block-fourteen a {
 	text-decoration: none;
 }
-.ending{
+.ending {
 	font-color:grey;
 	float: left;
 	width:10%;
