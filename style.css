@@ -14,7 +14,7 @@ header {
 	padding-top: 20px;
 
 }
-a{
+a {
 	color: blue;
 }
 .logo {
@@ -22,7 +22,7 @@ a{
 	float:left;
 	padding-top: 7px;
 }
-.facebook-login{
+.facebook-login {
 	width: 40%;
 	float: left;
 }
@@ -30,13 +30,13 @@ a{
 	color: #fff;
 
 }
-.email{
+.email {
 	float:left;
 }
-.email label{
+.email label {
 	padding-bottom: 10px;
 }
-.email input[type="text"]{
+.email input[type="text"] {
 	height: 20px;
 	width: 150px;
 	border: 1px solid #1d2a5b;
@@ -52,20 +52,20 @@ margin-left: 15px;
 	border: 1px solid #1d2a5b;
 
 }
-.password a{
+.password a {
 	color:#8fb1d8;
 	text-decoration: none;
 }
-.password label{
+.password label {
 	padding-bottom: 10px;
 }
-.login-button{
+.login-button {
 float: left;
 margin-top:18px;
 margin-left:20px;
 
 }
-.login-button input[type="submit"]{
+.login-button input[type="submit"] {
 	background-color: #4267b2;
 	border: 1px solid #29487d;
 	background-radius:2 px;
@@ -73,14 +73,14 @@ margin-left:20px;
 	height:20px;
 	width:50px;
 }
-.clearfix{
+.clearfix {
 	clear:both;
 }
-.content-block{
+.content-block {
 	width:992px;
 	margin: 0 auto;
 }
-.facebook-connect{
+.facebook-connect {
 	margin-top: 50px;
 	width:50%;
 	float: left;
@@ -91,12 +91,12 @@ margin-left:20px;
 	font-weight: bold;
 	margin-top:1px;
 }
-.create-account{
+.create-account {
 	width: 50%;
 	float: left;
 	height:150px;
 }
-.create-account p{
+.create-account p {
 	font-size:20px;
 	margin-left: 90px;
 	padding-top:1px;
@@ -104,7 +104,7 @@ margin-left:20px;
 	margin-top:1px;
 
 }
-.create-account h2{
+.create-account h2 {
 	font-size:40px;
 	font-weight: bold;
 	margin-left: 90px;
@@ -112,7 +112,7 @@ margin-left:20px;
 	padding: 2px;
 
 }
-.account{
+.account {
 	width: 40%;
 	float:left;
 	height:450px;
@@ -120,7 +120,7 @@ margin-left:20px;
 	width:500px;
 }
 
-.fn input[type="text"]{
+.fn input[type="text"] {
 	float:left;
 	font-size: 20px;
 	height:34px;
@@ -130,7 +130,7 @@ margin-left:20px;
 	border-radius: 8px;
 	padding:7px;
 }
-.ln input[type="text"]{
+.ln input[type="text"] {
 	float:left;
 	font-size: 20px;
 	height:34px;
@@ -140,7 +140,7 @@ margin-left:20px;
 	border-radius: 8px;
 	padding:7px;
 }
-.mn input[type="text"]{
+.mn input[type="text"] {
 	float:left;
 	font-size: 20px;
 	height:34px;
@@ -150,7 +150,7 @@ margin-left:20px;
 	margin-top:9px;
 	margin-left: 90px;
 }
-.pa input[type="password"]{
+.pa input[type="password"] {
 	float:left;
 	font-size: 20px;
 	height:34px;
@@ -160,7 +160,7 @@ margin-left:20px;
 	margin-top:9px;
 	margin-left: 90px;
 }
-.account p{
+.account p {
 	font-weight: bold;
 	color: black;
 	float: left;
@@ -190,7 +190,7 @@ margin-left:20px;
 	
 }
 
-.list select{
+.list select {
 	float:left;
 	width:70px;
 	height: 30px;
@@ -204,37 +204,37 @@ margin-left:20px;
 	height:50px;
 	margin-left:10px;
 }
-.binf a{
+.binf a {
 	text-decoration: none;
 	font-size: 14px;
 	color: blue;
 }
-.gender{
+.gender {
 	float: left;
 	width:100%;
 	height:30px;
 }
-.gender input[type="radio"]{
+.gender input[type="radio"] {
 	font-size: 12px;
 	margin-left:95px;
 }
-.choose{
+.choose {
 	float:right;
 	width:65%;
 	height:30px;
 	//background-color: white;
 }
-.choose input[type="radio"]{
+.choose input[type="radio"] {
 	font-size: 12px;
 	margin-left:1px;
 }
-.information{
+.information {
 	float: left;
 	width:100%;
 	height:60px;
 	
 }
-.information p{
+.information p {
 	font-size: 11px;
 	font-weight: none;
 	margin-top: 3px;
@@ -244,7 +244,7 @@ margin-left:20px;
 {
 	text-decoration: none;
 }
-.final{
+.final {
 	float:left;
 	width:100%;
 	height:80px;
